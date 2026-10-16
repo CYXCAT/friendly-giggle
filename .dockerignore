@@ -1,0 +1,10 @@
+.git
+.gitignore
+.secrets
+.venv
+__pycache__
+*.pyc
+InfoSheetApp
+InfoSheetApp.xcodeproj
+project.yml
+sheets_writer.py

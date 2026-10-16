@@ -1,0 +1,14 @@
+.venv/
+.secrets/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+__pycache__/
+*.pyc
+.DS_Store
+*credentials*.json
+*token*.json
+.vercel/
+InfoSheetApp/Config.xcconfig
+.vercel
+.env*
